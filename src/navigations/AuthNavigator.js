@@ -1,6 +1,5 @@
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
-import { Text, View } from 'react-native';
 import {LOGIN, REGISTER} from '../constants/routesNames';
 import Login from '../screens/Login/index';
 import Register from '../screens/Register/index';

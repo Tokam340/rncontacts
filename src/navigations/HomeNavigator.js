@@ -1,6 +1,5 @@
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
-import { Text, View } from 'react-native';
 import {CONTACT_LIST, CONTACT_DETAILS, CREATE_CONTACT, SETTINGS} from '../constants/routesNames';
 import Contacts from '../screens/Contacts/index';
 import ContactDetails from '../screens/ContactDetail/index';
